@@ -1,3 +1,7 @@
+EXPERIMENTAL
+============
+not in fully working condition
+
 fetchfs
 =======
 
